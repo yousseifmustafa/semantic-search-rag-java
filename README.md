@@ -45,12 +45,11 @@ RAG-TASK/
 ## ✅ Example Output
 
 ```
-User Question:
-What is the difference between Artificial Intelligence and Machine Learning?
+سؤال المستخدم:
+ما الفرق بين الذكاء الاصطناعي والتعلم الآلي؟
 
-Answer:
-The main difference is that Artificial Intelligence covers a broad range of capabilities, while Machine Learning focuses on improving performance through data.
-```
+الإجابة:
+الفرق الرئيسي بين الذكاء الاصطناعي والتعلم الآلي هو أن الذكاء الاصطناعي يشمل مجالات واسعة، في حين يركز التعلم الآلي على تحسين الأداء من خلال البيانات.```
 
 ---
 
